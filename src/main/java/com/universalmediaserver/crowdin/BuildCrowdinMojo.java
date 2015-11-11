@@ -1,4 +1,4 @@
-package com.ums.crowdin.maven;
+package com.universalmediaserver.crowdin;
 
 import java.io.InputStream;
 import org.apache.http.client.methods.HttpGet;

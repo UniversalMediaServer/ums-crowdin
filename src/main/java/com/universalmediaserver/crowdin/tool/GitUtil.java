@@ -1,4 +1,4 @@
-package com.ums.crowdin.maven.tool;
+package com.universalmediaserver.crowdin.tool;
 
 import java.io.File;
 import java.io.IOException;
