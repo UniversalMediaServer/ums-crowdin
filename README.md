@@ -13,7 +13,7 @@ To access crowdin this plugin needs a project identifier and an API key from cro
     <!-- ... -->
     <server>
       <id>crowdin-ums</id>
-      <username>universalmediaserver<username>
+      <username>universalmediaserver</username>
       <password>API key</password>
     </server>
     <!-- ... -->
